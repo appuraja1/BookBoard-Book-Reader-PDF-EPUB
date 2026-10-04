@@ -68,15 +68,20 @@ Yes. With BookBoard's **ai book reader** and **book reader ai free** features, a
 
 ## 🏆 Head-to-Head Comparison: BookBoard vs Common Alternatives
 
-| Feature Criteria | BookBoard | ReadEra | Moon+ Reader | Lithium |
+| Feature & Capability | BookBoard | ReadEra | Moon+ Reader | Lithium |
 | :--- | :---: | :---: | :---: | :---: |
-| **100% Free Core Engine** | ✅ Yes | ✅ Yes | ⚠️ Limited Free Tier | ⚠ EPUB Only |
-| **Integrated Study Notes Store** | ✅ Full Local Vault | ❌ Highlights Only | ❌ Basic Notes | ❌ Basic Highlights |
-| **Comic Archives (CBZ & CBR)** | ✅ Native Support | ⚠️ Basic | ⚠️ Pro Only | ❌ No |
-| **AI Text-to-Speech (TTS)** | ✅ Built-in Audio | ✅ Built-in | ⚠ Pro Only | ❌ No |
-| **Cloud-Free Privacy Guarantee** | ✅ 100% Local | ✅ Local | ⚠️ Cloud Sync | ✅ Local |
-
----
+| **Pricing & Core Access** | **100% Free Complete Access** | Free (Ad-supported features) | Limited Free (Paid Pro model) | Free (Basic) / Pro Paid |
+| **All-in-One Format Engine** (PDF, EPUB, MOBI, TXT, DOCX) | ✅ Native Full Support | ✅ Supported | ⚠️ Basic in Free | ❌ EPUB Only |
+| **Comic & Manga Reader** (CBZ, CBR) | ✅ Hardware Accelerated | ⚠️ Basic Viewing | ⚠️ Locked in Pro | ❌ Not Supported |
+| **Dedicated Study Notes Store** (Organized Revision Vault) | ✅ Integrated Local Vault | ❌ Highlights Only | ❌ Basic Annotations | ❌ Only Simple Marks |
+| **Smart Side-by-Side Note Taking** | ✅ Read & Jot Simultaneously | ❌ No Dual Panel | ❌ Pop-up Only | ❌ Not Supported |
+| **AI Text-to-Speech (TTS) Engine** | ✅ Built-in Audio Narration | ✅ Basic TTS | ⚠️ Requires Pro Version | ❌ Not Supported |
+| **Background Audio Playback & Speed Control** (0.5x–3.0x) | ✅ Unlocked Free | ⚠️ Standard Speeds | ⚠️ Pro Only | ❌ Not Supported |
+| **AMOLED True Dark Mode & Sepia Filters** | ✅ Full Visual Comfort Suite | ✅ Supported | ⚠️ Limited Themes in Free | ⚠️ Basic Dark Theme |
+| **Dual-Page "Book Style" View** (Tablets & Foldables) | ✅ Auto-Adaptive Rendering | ⚠️ Limited Customization | ⚠️ Requires Setup | ❌ Not Supported |
+| **Fast In-Book & Full-Library Search** | ✅ Instant Deep Indexing | ✅ Supported | ⚠️ Slower on Large PDFs | ⚠️ Basic Text Search |
+| **Zero Account / No Forced Cloud Tracking** | ✅ 100% Local Device Privacy | ✅ Local Focused | ⚠️ Cloud Sync Push | ✅ Local Only |
+| **Lightweight APK & Battery Optimization** | ✅ Featherweight Footprint | ⚠️ Moderate Size | ⚠️ Heavy Resource Usage | ✅ Lightweight |
 
 ## ⚙️ How to Get Started with BookBoard
 
