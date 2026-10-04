@@ -4,6 +4,10 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.appuraja.notestore)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![User Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline%20Local-success?style=for-the-badge)](docs/privacy-policy.md)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://bookboard.co/Install)
+[![Formats](https://img.shields.io/badge/Formats-EPUB%20%7C%20PDF%20%7C%20CBZ%20%7C%20CBR%20%7C%20TXT%20%7C%20HTML%20%7C%20Audio-blue)](https://bookboard.co/zlibrary-by-bookboard-app)
+[![Legal Compliance](https://img.shields.io/badge/Compliance-DMCA%20%7C%20Public%20Domain-brightgreen)](https://bookboard.co/copyright)
+[![Community](https://img.shields.io/badge/Community-BookBoard.co-orange)](https://bookboard.co)
 
 Looking for the **best ebook reader**, **best pdf reader**, or **best free ebook reader app for android**? **BookBoard** is an all-in-one **digital book reader**, **comic book reader**, **ai ebook reader**, and offline study workspace. 
 
