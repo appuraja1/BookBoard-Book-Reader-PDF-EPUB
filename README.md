@@ -237,7 +237,7 @@ The application combines reading components for different document types into a 
                              ▼
                       Android Reader
 
----
+```
 
 ## 🎯 Who is BookBoard for?
 
