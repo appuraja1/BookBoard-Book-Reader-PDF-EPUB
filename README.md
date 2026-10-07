@@ -1,160 +1,350 @@
-# BookBoard: Best Free eBook Reader, PDF Viewer, EPUB & Comic Book Reader for Android
+# BookBoard – Free eBook, PDF & EPUB Reader for Android
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download%20Free-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN)
-[![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.appuraja.notestore)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://bookboard.co/Install)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![User Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline%20Local-success?style=for-the-badge)](docs/privacy-policy.md)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://bookboard.co/Install)
-[![Formats](https://img.shields.io/badge/Formats-EPUB%20%7C%20PDF%20%7C%20CBZ%20%7C%20CBR%20%7C%20TXT%20%7C%20HTML%20%7C%20Audio-blue)](https://bookboard.co/zlibrary-by-bookboard-app)
-[![Legal Compliance](https://img.shields.io/badge/Compliance-DMCA%20%7C%20Public%20Domain-brightgreen)](https://bookboard.co/copyright)
-[![Community](https://img.shields.io/badge/Community-BookBoard.co-orange)](https://bookboard.co)
+[![Privacy](https://img.shields.io/badge/Privacy-Local%20First-success?style=for-the-badge)](https://bookboard.co/privacy-policy)
+[![Formats](https://img.shields.io/badge/Formats-EPUB%20%7C%20PDF%20%7C%20CBZ%20%7C%20CBR%20%7C%20TXT%20%7C%20HTML-blue?style=for-the-badge)](https://bookboard.co/zlibrary-by-bookboard-app)
 
-Looking for the **best ebook reader**, **best pdf reader**, or **best free ebook reader app for android**? **BookBoard** is an all-in-one **digital book reader**, **comic book reader**, **ai ebook reader**, and offline study workspace. 
+**BookBoard** is a free Android reading app for **eBooks, PDF documents, EPUB books, comics, manga, novels and other digital documents**.
 
-Whether you need a **free epub reader**, a dedicated **cbr cbz reader android**, or an **offline novel reader app**, BookBoard offers a distraction-free, zero-lag platform for students, manga enthusiasts, and novel readers worldwide.
+It brings multiple reading formats into one reading experience, with support for EPUB, PDF, CBZ, CBR, TXT, HTML and other supported formats. BookBoard is designed for readers, students, researchers and anyone who wants a simple way to read their digital library on Android.
 
----
-
-## ⚡ Direct Download & Official App Listing
-
-Install the safe, verified build directly from Google Play:
-👉 **[Download BookBoard: Best Free eBook Reader App on Google Play](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN)**
+[Download BookBoard on Google Play](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN) · [Official Website](https://bookboard.co)
 
 ---
 
-## 📊 Comprehensive Format & Feature Breakdown
+## 📚 What is BookBoard?
 
-| Category | Primary Search Intents & Formats | BookBoard Native Capabilities |
-| :--- | :--- | :--- |
-| **eBook Reading** | `ebook reader`, `best ebook reader app`, `ebook reader apk`, `ai ebook reader` | Dual-engine reflow typography, dynamic margin tuning, AMOLED dark themes, and chapter indexing. |
-| **PDF Documents** | `pdf reader`, `best pdf reader android`, `pdf reader book style`, `pdf book reader` | Continuous vertical scroll, two-page book style layout, lightning search, and zero-compression page rendering. |
-| **EPUB Standard** | `epub reader`, `best epub reader android`, `free epub reader`, `android epub reader app` | Full CSS3 rendering, custom font imports, interactive footnotes, and real-time word flow adjustment. |
-| **Comics & Manga** | `cbz reader`, `cbr reader`, `best comics reader android`, `cbr cbz reader android` | Native archive unpacking (`.cbz`, `.cbr`), right-to-left manga modes, color enhancement, and zero blur. |
-| **Novels & Stories** | `novel reader`, `web novel reader`, `free novel reader`, `novel reader app offline` | Auto-scroll mode, continuous chapter stitching, custom line spacing, and eye-protection night filters. |
-| **Audiobooks & TTS** | `ai book reader free`, `free ebooks and audiobooks`, `book reader ai` | High-fidelity Text-to-Speech (TTS) engine, pitch and speed control (0.5x–3.0x), and background audio playback. |
-| **Study & Notes** | `study notes store`, `revision vault`, `textbook summarizer` | Side-by-side note taking, excerpt clipping, categorized topic tags, and flashcard-style offline review. |
+BookBoard is an **eBook reader, PDF reader and EPUB reader for Android**.
 
----
+Instead of using separate applications for different document types, BookBoard provides a unified reading library for supported books and documents.
 
-## 🔍 Google "People Also Ask" (PAA) & Search Answers
+You can use it to:
 
-### What is the best free e-book reader app for Android?
-**BookBoard** is widely recognized as the **best free ebook reader app for android**. Unlike apps that restrict essential tools to paid tiers, BookBoard provides an unrestricted document engine for EPUB, PDF, MOBI, TXT, CBZ, and CBR files with built-in offline note-taking.
-
-### Which is the best pdf reader and best epub reader for Android?
-BookBoard operates as a dual-architecture reader:
-* **As a PDF Reader Android:** It offers continuous scrolling, pinch-to-zoom without pixelation, instant text search, and a realistic **pdf reader book style** two-page view for tablets and foldables.
-* **As an Android Best EPUB Reader:** It reflows text dynamically to match your device screen, letting you adjust fonts, line heights, and margins while tracking reading progress across chapters.
-
-### Which novel app is completely free and works offline?
-If you are searching for a **free novel reader**, **web novel reader**, or **novel reader app download**, BookBoard provides a completely free offline reader environment. You can load your downloaded TXT, EPUB, and PDF novels with zero paywalls, timers, or banner interruptions.
-
-### Where can I read e-books for free and download them legally?
-To find **free books to read online** or **free ebooks to download and read offline**, users can access legal public domain repositories:
-* **Project Gutenberg Free eBooks:** Over 70,000 free classic literature titles available in EPUB and Kindle formats.
-* **Standard Ebooks & Open Library:** High-quality public domain editions and open-access documents.
-* **Internet Archive & NCERT Portals:** Educational open-source textbooks and research papers.
-Once downloaded, open the files inside **BookBoard** for full offline reading, note-taking, and audio narration.
-
-### Which app can I download all books for free?
-Legal document reading utilities like **BookBoard** do not host, scrape, or distribute unauthorized copyrighted material. Instead, BookBoard serves as the **best digital book reader** engine to store, read, and annotate all legally acquired personal documents, user-generated study guides, and open-source public domain books.
-
-### What is the best comics reader and cbz / cbr reader for Android?
-BookBoard is built with a dedicated visual archive renderer:
-* **Best CBZ Reader Android:** Smooth multi-page cache, fit-to-width mode, and double-page landscape display.
-* **Best CBR Reader Android:** Hardware-accelerated decompression for RAR archives, ensuring graphic novels and manga render crisply with zero lag.
-* **CBZ Reader Android No Ads:** A distraction-free viewing experience designed specifically for comic collectors.
-
-### Can I listen to free ebooks and audiobooks using AI?
-Yes. With BookBoard's **ai book reader** and **book reader ai free** features, any standard PDF, EPUB, or text novel is instantly converted into spoken audio using your device's native Text-to-Speech (TTS) synthesis, providing a complete hands-free listening experience.
+- Read EPUB eBooks
+- Open and read PDF books and documents
+- Read TXT and HTML files
+- View CBZ and CBR comic archives
+- Read novels and other digital books
+- Listen to supported text through Android Text-to-Speech
+- Organize your local reading library
+- Continue reading from your previous position
+- Customize the reading experience
+- Use dark and comfortable reading themes
+- Search supported documents and books
 
 ---
 
-## 🏆 Head-to-Head Comparison: BookBoard vs Common Alternatives
+## 📖 Supported Reading Formats
 
-| Feature & Capability | BookBoard | ReadEra | Moon+ Reader | Lithium |
-| :--- | :---: | :---: | :---: | :---: |
-| **Pricing & Core Access** | **100% Free Complete Access** | Free (Ad-supported features) | Limited Free (Paid Pro model) | Free (Basic) / Pro Paid |
-| **All-in-One Format Engine** (PDF, EPUB, MOBI, TXT, DOCX) | ✅ Native Full Support | ✅ Supported | ⚠️ Basic in Free | ❌ EPUB Only |
-| **Comic & Manga Reader** (CBZ, CBR) | ✅ Hardware Accelerated | ⚠️ Basic Viewing | ⚠️ Locked in Pro | ❌ Not Supported |
-| **Dedicated Study Notes Store** (Organized Revision Vault) | ✅ Integrated Local Vault | ❌ Highlights Only | ❌ Basic Annotations | ❌ Only Simple Marks |
-| **Smart Side-by-Side Note Taking** | ✅ Read & Jot Simultaneously | ❌ No Dual Panel | ❌ Pop-up Only | ❌ Not Supported |
-| **AI Text-to-Speech (TTS) Engine** | ✅ Built-in Audio Narration | ✅ Basic TTS | ⚠️ Requires Pro Version | ❌ Not Supported |
-| **Background Audio Playback & Speed Control** (0.5x–3.0x) | ✅ Unlocked Free | ⚠️ Standard Speeds | ⚠️ Pro Only | ❌ Not Supported |
-| **AMOLED True Dark Mode & Sepia Filters** | ✅ Full Visual Comfort Suite | ✅ Supported | ⚠️ Limited Themes in Free | ⚠️ Basic Dark Theme |
-| **Dual-Page "Book Style" View** (Tablets & Foldables) | ✅ Auto-Adaptive Rendering | ⚠️ Limited Customization | ⚠️ Requires Setup | ❌ Not Supported |
-| **Fast In-Book & Full-Library Search** | ✅ Instant Deep Indexing | ✅ Supported | ⚠️ Slower on Large PDFs | ⚠️ Basic Text Search |
-| **Zero Account / No Forced Cloud Tracking** | ✅ 100% Local Device Privacy | ✅ Local Focused | ⚠️ Cloud Sync Push | ✅ Local Only |
-| **Lightweight APK & Battery Optimization** | ✅ Featherweight Footprint | ⚠️ Moderate Size | ⚠️ Heavy Resource Usage | ✅ Lightweight |
+| Format | Use |
+|---|---|
+| **EPUB** | Reflowable eBooks and novels |
+| **PDF** | Books, documents, textbooks and papers |
+| **CBZ** | Comic books and image-based publications |
+| **CBR** | Comic books and manga archives |
+| **TXT** | Plain-text books and documents |
+| **HTML / HTM** | Web documents and formatted text |
+| **Audio** | Supported audio and spoken-book content |
 
-## ⚙️ How to Get Started with BookBoard
-
-1. **Install:** Download the official APK from [Google Play Store](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN).
-2. **Scan Device:** Open the app to index your locally stored files (`.pdf`, `.epub`, `.mobi`, `.cbz`, `.cbr`, `.txt`, `.docx`).
-3. **Customize Layout:** Select your preferred reading theme (AMOLED Black, Soft Sepia, or High-Contrast White) and adjust font styles.
-4. **Capture Notes:** Tap the annotation panel during reading sessions to store chapter summaries and revision flashcards in your offline notebook.
+Format support can vary by file structure, Android version and the specific document.
 
 ---
 
-## ⚖️ Legal Disclaimer & User-Generated Content Compliance
+## ✨ Features
 
-**zLibrary by BookBoard®** provides an ethical, secure, and performant reading application for students, creators, researchers, and book lovers. The application operates strictly within international intellectual property boundaries, aggregating cataloged public domain masterpieces, open-access academic works, and community-published original writing.
+### eBook Reader
 
-The integrated native engine eliminates the friction of switching between multiple reading apps by rendering documents, digital comics, plain text manuscripts, and spoken-word audio within a unified, battery-efficient interface.
+BookBoard provides a comfortable reading environment for digital books and novels.
 
+- EPUB reading
+- Adjustable text size
+- Reading themes
+- Font and layout customization
+- Chapter navigation
+- Reading progress
+- Bookmarks and reading continuity
+- Library organization
 
-```
+### PDF Reader
 
-```
-                          ┌─────────────────────────────────────────┐
-                          │       zLibrary by BookBoard Engine      │
-                          └────────────────────┬────────────────────┘
-                                               │
-     ┌───────────────────┬─────────────────────┼─────────────────────┬───────────────────┐
-     ▼                   ▼                     ▼                     ▼                   ▼
+Read PDF books, documents, study material and other PDF files directly on Android.
 
-```
+- Page navigation
+- Zoom and scrolling
+- Text search where supported by the document
+- Single-page and reading layouts
+- Reading progress
+- Dark reading options
 
-[EPUB Reader]       [PDF Engine]          [Comic Suite]         [Text & Web]       [Audio Player]
-Reflowable Text     Vector Zoom           CBZ / CBR View        Plain TXT / HTML   M4B / MP3 Media
-Custom Themes       Page Jumping          PhotoView Gestures    AMOLED CSS Styling Background Playback
+### EPUB Reader
 
-```
+The EPUB reader is designed for reflowable digital books.
+
+- Dynamic text reflow
+- Font customization
+- Adjustable margins
+- Line spacing controls
+- Chapter navigation
+- Reading progress
+- Custom reading themes
+
+### Comic & Manga Reader
+
+BookBoard supports common comic archive formats including **CBZ and CBR**.
+
+- CBZ support
+- CBR support
+- Image-based page rendering
+- Zoom and navigation controls
+- Landscape reading
+- Full-screen reading
+- Manga and graphic-novel friendly layouts
+
+### TXT & HTML Reader
+
+BookBoard can also be used as a simple reader for supported text and HTML documents.
+
+This makes it useful for:
+
+- Notes
+- Manuscripts
+- Articles
+- Study material
+- Plain-text novels
+- Saved web documents
+
+### Text-to-Speech
+
+BookBoard can work with Android's Text-to-Speech system to provide spoken reading for supported text.
+
+This can be useful when you want to listen to supported books or documents while doing other activities.
+
+Availability and behavior depend on the document and the installed Android TTS engine.
 
 ---
 
-## 🚀 Key Functional Capabilities
+## 🎨 Comfortable Reading Experience
 
-### 1. Multi-Format Native Rendering Engine
-* **eBooks (EPUB & PDF):** Dynamic typography, fluid pagination, font scaling, table of contents navigation, and vector document caching.
-* **Comics & Manga (CBZ & CBR):** Hardware-accelerated image scaling with double-tap zoom, swipe controls, and full-screen immersion.
-* **Text & Web Files (TXT, HTML, HTM):** Dedicated zero-lag reader view that converts unformatted text and web documents into clean, book-styled layouts.
-* **Audiobook Streaming & Playback (M4B, MP3):** Integrated media playback featuring seek controls, sleep timers, and resume markers.
+BookBoard includes reading controls designed for longer reading sessions.
 
-### 2. Ergonomic Reading & Display Customization
-* **Adaptive Viewing Modes:** Instant toggling between **Day**, **Night (AMOLED Pure Black)**, and **Sepia** palettes to minimize eye fatigue.
-* **Reading Continuity:** Automated location-tracking down to paragraph offsets and pages, synced across offline launches.
-* **Precision Controls:** Integrated brightness sliders, volume-button navigation, and auto-scroll functionality.
+### Reading Themes
 
-### 3. Storage Access Framework (SAF) & Library Vault
-* Direct folder synchronization using Android's native Storage Access Framework.
-* Real-time duplicate management utilizing non-blocking **CRC32 checksum algorithms** to eliminate memory bloat and redundant files.
-* Offline-first local database architecture ensuring uninterrupted offline access without forced telemetry.
+Choose from different visual modes depending on your environment and preference.
 
----
+- Light reading mode
+- Dark mode
+- AMOLED-friendly dark mode
+- Sepia-style reading
 
-## 🛡️ Legal Compliance, Brand Authenticity & DMCA Notice
+### Reading Controls
 
-## ⚡ Direct Navigation & Resources
+Customize the experience with available controls such as:
 
-* **Application Installer:** [bookboard.co/Install](https://bookboard.co/Install)
-* **Official Application Portal:** [bookboard.co/zlibrary-by-bookboard-app](https://bookboard.co/zlibrary-by-bookboard-app)
-* **Publisher & Author Network:** [bookboard.co/author-services](https://bookboard.co/author-services)
-* **Legal Documentation & DMCA Portal:** [bookboard.co/copyright](https://bookboard.co/copyright)
-* **Community Guidelines:** [bookboard.co/community-guidelines](https://bookboard.co/community-guidelines)
-* **Privacy Charter:** [bookboard.co/privacy-policy](https://bookboard.co/privacy-policy)
-
+- Text size
+- Font
+- Margins
+- Line spacing
+- Brightness
+- Page navigation
+- Auto-scroll
+- Reading direction where supported
 
 ---
 
-**Official App Link:** [Install BookBoard on Google Play Store](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN)
+## 📚 Local Book Library
+
+BookBoard can organize supported books and documents stored on your Android device.
+
+The library experience is designed to make it easier to find and continue reading your files without switching between multiple reading applications.
+
+Supported workflows may include:
+
+- Local book discovery
+- Reading progress
+- Recently opened books
+- Book organization
+- File-based reading
+- Offline access to locally stored content
+
+---
+
+## 🔒 Privacy & Local Reading
+
+BookBoard is designed with a local-first reading experience for supported files.
+
+Your personal documents and books should remain under your control. BookBoard does not require you to upload every locally stored book simply to read it.
+
+For complete information about data handling and privacy, see the official:
+
+**[BookBoard Privacy Policy](https://bookboard.co/privacy-policy)**
+
+---
+
+## 📱 Android App
+
+BookBoard is available for Android devices through Google Play.
+
+### Official Download
+
+**[Download BookBoard from Google Play](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN)**
+
+You can also visit the official BookBoard website:
+
+**[https://bookboard.co](https://bookboard.co)**
+
+---
+
+## 🚀 Getting Started
+
+1. Install BookBoard from Google Play.
+2. Open the application.
+3. Allow the required file access permissions when requested.
+4. Open a supported EPUB, PDF, CBZ, CBR, TXT or other supported file.
+5. Customize the reading layout.
+6. Start reading and continue from your saved reading position.
+
+---
+
+## 🛠️ Technical Overview
+
+BookBoard is an Android application focused on digital reading and document handling.
+
+The application combines reading components for different document types into a unified library experience.
+
+### Supported Reading Pipeline
+
+```text
+                         BookBoard
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+             ▼               ▼               ▼
+          eBooks          Documents       Comics
+             │               │               │
+       EPUB / TXT        PDF / HTML      CBZ / CBR
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                       Reading Library
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+         Bookmarks       Progress          Themes
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                      Android Reader
+
+---
+
+## 🎯 Who is BookBoard for?
+
+BookBoard can be useful for:
+
+- 📚 eBook readers
+- 🎓 Students
+- 📖 Novel readers
+- 🧑‍💻 Researchers
+- 📰 Digital document readers
+- 🖼️ Comic and manga readers
+- 📱 Android users with local book collections
+
+Whether you are reading a novel, studying from a PDF, opening an EPUB book or viewing a CBZ comic, BookBoard provides a single reading environment for supported formats.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Is BookBoard a free eBook reader?
+
+Yes. BookBoard is available as an Android reading application with support for multiple digital book and document formats.
+
+### Can BookBoard read EPUB files?
+
+Yes. BookBoard supports EPUB files and provides reading controls for supported EPUB documents.
+
+### Can BookBoard open PDF books?
+
+Yes. BookBoard can be used as a PDF reader for supported PDF documents.
+
+### Does BookBoard support CBZ and CBR?
+
+Yes. BookBoard supports CBZ and CBR comic archive formats.
+
+### Can I read books offline?
+
+Supported files stored locally on your Android device can be read offline.
+
+### Can I use BookBoard for novels?
+
+Yes. EPUB, TXT, PDF and other supported formats can be used for reading novels and other digital books.
+
+### Does BookBoard support text-to-speech?
+
+BookBoard can use Android Text-to-Speech for supported text content. The available functionality depends on the document and installed TTS engine.
+
+### Where can I legally get free ebooks?
+
+Free and legal books are available from sources such as public-domain libraries, open-access repositories and publishers that distribute books with appropriate licenses.
+
+BookBoard is a reading application and should be used with books and documents that you have the right to access.
+
+---
+
+## ⚖️ Copyright & DMCA
+
+BookBoard is a reading application and does not grant users permission to access copyrighted material without authorization.
+
+Users are responsible for ensuring that the books, documents and other content they access through the application are legally obtained or otherwise authorized for their use.
+
+If you are a copyright or rights holder and believe that content associated with our services infringes your rights, please submit a DMCA takedown request through our copyright support process.
+
+**[Copyright & DMCA](https://bookboard.co/copyright)**
+
+---
+
+## 🔗 Official Resources
+
+- **[BookBoard Website](https://bookboard.co)**
+- **[Download BookBoard](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN)**
+- **[BookBoard App Information](https://bookboard.co/zlibrary-by-bookboard-app)**
+- **[Privacy Policy](https://bookboard.co/privacy-policy)**
+- **[Copyright & DMCA](https://bookboard.co/copyright)**
+- **[Community Guidelines](https://bookboard.co/community-guidelines)**
+- **[Author Services](https://bookboard.co/author-services)**
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions and bug reports are welcome.
+
+If you find an issue with the project, please open an issue with:
+
+- A clear description of the problem
+- Android version
+- Device model
+- Steps to reproduce the issue
+- Relevant logs or screenshots when appropriate
+
+---
+
+## 📄 License
+
+This repository is distributed under the license included in this project.
+
+See **[LICENSE](LICENSE)** for details.
+
+---
+
+## About BookBoard
+
+BookBoard is an Android reading platform focused on making digital books and documents easier to read, organize and enjoy.
+
+The application supports multiple reading formats including **EPUB, PDF, CBZ, CBR and TXT**, with features designed for everyday reading, study and digital libraries.
+
+**Official website:** https://bookboard.co
+
+**Google Play:** https://play.google.com/store/apps/details?id=com.appuraja.notestore
