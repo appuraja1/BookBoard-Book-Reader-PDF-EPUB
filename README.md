@@ -1,4 +1,4 @@
-# BookBoard – Free eBook, PDF & EPUB Reader for Android
+# BookBoard Reader – Free eBook, PDF & EPUB Reader for Android
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download%20Free-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appuraja.notestore&hl=en_IN)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://bookboard.co/Install)
